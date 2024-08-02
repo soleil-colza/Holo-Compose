@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Holo-Compose"
 include(":app")
+include(":holoCompose")
